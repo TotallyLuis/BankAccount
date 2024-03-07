@@ -48,7 +48,7 @@ class BankAccount
     std::string accountNumber = "";
     std::string ownerName = "";
     double balance = 0.0;
-    double interestRate = 0.0;
+    double interestRate = 0.01;
 
 
 
